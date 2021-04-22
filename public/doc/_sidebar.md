@@ -1,0 +1,12 @@
+- **Introduction**
+  - [About](/)
+  - [Awesome Cusdis](awesome.md)
+- **Self-host Guide**
+  - [Docker](/self-host/docker.md)
+  - [Vercel](/self-host/vercel.md)
+- **Integration**
+  - [Docsify](/integration/docsify.md)
+- **Advanced**
+  - [JS SDK Reference](/advanced/sdk.md)
+  - [Notification](/advanced/notification.md)
+- [**Contributing Guide**](/contributing.md)
